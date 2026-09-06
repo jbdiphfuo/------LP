@@ -318,7 +318,7 @@ margin-left: 50px;
 .cancel{background: rgb(186, 180, 218); width: 150px; height: auto;
     color:rgb(0, 0, 0); text-align: center; justify-content: center; align-items: center; font-size: 15px; padding: 8px 8px;}
 .onerank-skincare{display: flex; justify-content: center; align-items: center; text-align: center; font-size: 25px; font-weight: 600;}
-.all-steps{display: flex; justify-content: center; align-items: center; text-align: center; gap: 20px; position: relative; margin: 20px;
+.all-steps{display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 20px; position: relative; margin: 20px;
 background-color: #d3e1fc; padding: 20px 20px;}
 .step{display: flex; flex-direction: column;}
 .set{ border-radius: 9999%;  background-color: cadetblue; color: #ffffff; width: 100px; 
